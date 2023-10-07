@@ -1,0 +1,40 @@
+2023-10-05 13:48:46,353.v2_airdata_producer.INFO ==================================================
+2023-10-05 13:48:46,355.v2_airdata_producer.INFO Today is 2023-10-05 at 01:48 PM
+2023-10-05 13:48:46,355.v2_airdata_producer.INFO Running on: nt Windows 10
+2023-10-05 13:48:46,356.v2_airdata_producer.INFO Python version:  3.10.8
+2023-10-05 13:48:46,357.v2_airdata_producer.INFO Python path: C:\Users\KONGA\miniconda3
+2023-10-05 13:48:46,357.v2_airdata_producer.INFO Working dir: C:\Users\KONGA\Documents\Streaming-07-Airline-Project
+2023-10-05 13:48:46,358.v2_airdata_producer.INFO ==================================================
+2023-10-05 13:48:51,866.v2_airdata_producer.INFO Offer to monitor RabbitMQ queues.
+2023-10-05 13:48:52,029.v2_airdata_producer.INFO Answer is y.
+2023-10-05 13:48:52,099.v2_airdata_producer.INFO Skipped header row
+2023-10-05 13:48:52,100.v2_airdata_producer.INFO [x] Sent ('Edithe', '6/28/2022') to departure
+2023-10-05 13:48:52,101.v2_airdata_producer.INFO [x] Sent ('Edithe', 'On Time') to flight-status
+2023-10-05 13:49:22,106.v2_airdata_producer.INFO [x] Sent ('Elwood', '12/26/2022') to departure
+2023-10-05 13:49:22,108.v2_airdata_producer.INFO [x] Sent ('Elwood', 'On Time') to flight-status
+2023-10-05 13:49:52,119.v2_airdata_producer.INFO [x] Sent ('Darby', '1/18/2022') to departure
+2023-10-05 13:49:52,122.v2_airdata_producer.INFO [x] Sent ('Darby', 'On Time') to flight-status
+2023-10-05 13:50:22,138.v2_airdata_producer.INFO [x] Sent ('Dominica', '9/16/2022') to departure
+2023-10-05 13:50:22,140.v2_airdata_producer.INFO [x] Sent ('Dominica', 'Delayed') to flight-status
+2023-10-05 13:50:52,143.v2_airdata_producer.INFO [x] Sent ('Bay', '2/25/2022') to departure
+2023-10-05 13:50:52,145.v2_airdata_producer.INFO [x] Sent ('Bay', 'On Time') to flight-status
+2023-10-05 13:51:22,155.v2_airdata_producer.INFO [x] Sent ('Lora', '6/10/2022') to departure
+2023-10-05 13:51:22,157.v2_airdata_producer.INFO [x] Sent ('Lora', 'On Time') to flight-status
+2023-10-05 13:51:52,161.v2_airdata_producer.INFO [x] Sent ('Rand', '10/30/2022') to departure
+2023-10-05 13:51:52,163.v2_airdata_producer.INFO [x] Sent ('Rand', 'Cancelled') to flight-status
+2023-10-05 13:52:22,167.v2_airdata_producer.INFO [x] Sent ('Perceval', '4/7/2022') to departure
+2023-10-05 13:52:22,169.v2_airdata_producer.INFO [x] Sent ('Perceval', 'Cancelled') to flight-status
+2023-10-05 13:52:52,173.v2_airdata_producer.INFO [x] Sent ('Aleda', '8/20/2022') to departure
+2023-10-05 13:52:52,175.v2_airdata_producer.INFO [x] Sent ('Aleda', 'On Time') to flight-status
+2023-10-05 13:53:22,186.v2_airdata_producer.INFO [x] Sent ('Burlie', '4/6/2022') to departure
+2023-10-05 13:53:22,188.v2_airdata_producer.INFO [x] Sent ('Burlie', 'On Time') to flight-status
+2023-10-05 13:53:52,194.v2_airdata_producer.INFO [x] Sent ('Porty', '5/27/2022') to departure
+2023-10-05 13:53:52,198.v2_airdata_producer.INFO [x] Sent ('Porty', 'Cancelled') to flight-status
+2023-10-05 13:54:22,203.v2_airdata_producer.INFO [x] Sent ('Briant', '2/6/2022') to departure
+2023-10-05 13:54:22,205.v2_airdata_producer.INFO [x] Sent ('Briant', 'Delayed') to flight-status
+2023-10-05 13:54:52,221.v2_airdata_producer.INFO [x] Sent ('Kalie', '3/19/2022') to departure
+2023-10-05 13:54:52,224.v2_airdata_producer.INFO [x] Sent ('Kalie', 'Delayed') to flight-status
+2023-10-05 13:55:22,231.v2_airdata_producer.INFO [x] Sent ('Catriona', '3/24/2022') to departure
+2023-10-05 13:55:22,235.v2_airdata_producer.INFO [x] Sent ('Catriona', 'Delayed') to flight-status
+2023-10-05 13:55:52,249.v2_airdata_producer.INFO [x] Sent ('Amberly', '3/7/2022') to departure
+2023-10-05 13:55:52,250.v2_airdata_producer.INFO [x] Sent ('Amberly', 'Delayed') to flight-status

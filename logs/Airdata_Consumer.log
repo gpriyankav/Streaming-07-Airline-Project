@@ -1,0 +1,209 @@
+2023-10-05 13:28:23,609.Airdata_Consumer.INFO ==================================================
+2023-10-05 13:28:23,610.Airdata_Consumer.INFO Today is 2023-10-05 at 01:28 PM
+2023-10-05 13:28:23,611.Airdata_Consumer.INFO Running on: nt Windows 10
+2023-10-05 13:28:23,611.Airdata_Consumer.INFO Python version:  3.10.8
+2023-10-05 13:28:23,612.Airdata_Consumer.INFO Python path: C:\Users\KONGA\miniconda3
+2023-10-05 13:28:23,613.Airdata_Consumer.INFO Working dir: C:\Users\KONGA\Documents\Streaming-07-Airline-Project
+2023-10-05 13:28:23,614.Airdata_Consumer.INFO ==================================================
+2023-10-05 13:28:23,678.Airdata_Consumer.INFO  [*] Ready for work. To exit press CTRL+C
+2023-10-05 13:28:23,680.Airdata_Consumer.INFO  [x] Received Passenger ID,First Name,Last Name,Gender,Age,Nationality,Airport Name,Airport Country Code,Country Name,Airport Continent,Continents,Departure Date,Arrival Airport,Pilot Name,Flight Status
+2023-10-05 13:28:23,681.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,689.Airdata_Consumer.INFO  [x] Received ABVWIg,Edithe,Leggis,Female,62,Japan,Coldfoot Airport,US,United States,NAM,North America,6/28/2022,CXF,Fransisco Hazeldine,On Time
+2023-10-05 13:28:23,690.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,693.Airdata_Consumer.INFO  [x] Received jkXXAX,Elwood,Catt,Male,62,Nicaragua,Kugluktuk Airport,CA,Canada,NAM,North America,12/26/2022,YCO,Marla Parsonage,On Time
+2023-10-05 13:28:23,695.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,697.Airdata_Consumer.INFO  [x] Received CdUz2g,Darby,Felgate,Male,67,Russia,Grenoble-Isère Airport,FR,France,EU,Europe,1/18/2022,GNB,Rhonda Amber,On Time
+2023-10-05 13:28:23,699.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,701.Airdata_Consumer.INFO  [x] Received BRS38V,Dominica,Pyle,Female,71,China,Ottawa / Gatineau Airport,CA,Canada,NAM,North America,9/16/2022,YND,Kacie Commucci,Delayed
+2023-10-05 13:28:23,702.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,704.Airdata_Consumer.INFO  [x] Received 9kvTLo,Bay,Pencost,Male,21,China,Gillespie Field,US,United States,NAM,North America,2/25/2022,SEE,Ebonee Tree,On Time
+2023-10-05 13:28:23,706.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,707.Airdata_Consumer.INFO  [x] Received nMJKVh,Lora,Durbann,Female,55,Brazil,Coronel Horácio de Mattos Airport,BR,Brazil,SAM,South America,6/10/2022,LEC,Inglis Dolley,On Time
+2023-10-05 13:28:23,708.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,712.Airdata_Consumer.INFO  [x] Received 8IPFPE,Rand,Bram,Male,73,Ivory Coast,Duxford Aerodrome,GB,United Kingdom,EU,Europe,10/30/2022,QFO,Stanislas Tiffin,Cancelled
+2023-10-05 13:28:23,714.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,720.Airdata_Consumer.INFO  [x] Received pqixbY,Perceval,Dallosso,Male,36,Vietnam,Maestro Wilson Fonseca Airport,BR,Brazil,SAM,South America,4/7/2022,STM,Sharyl Eastmead,Cancelled
+2023-10-05 13:28:23,721.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,724.Airdata_Consumer.INFO  [x] Received QNAs2R,Aleda,Pigram,Female,35,Palestinian Territory,Venice Marco Polo Airport,IT,Italy,EU,Europe,8/20/2022,VCE,Daryn Bardsley,On Time
+2023-10-05 13:28:23,725.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,728.Airdata_Consumer.INFO  [x] Received 3jmudz,Burlie,Schustl,Male,13,Thailand,Vermilion Airport,CA,Canada,NAM,North America,4/6/2022,YVG,Alameda Carlyle,On Time
+2023-10-05 13:28:23,729.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,731.Airdata_Consumer.INFO  [x] Received 2P41gZ,Porty,Jori,Male,39,Tunisia,Nuevo Casas Grandes Airport,MX,Mexico,NAM,North America,5/27/2022,NCG,Rasia Fidelus,Cancelled
+2023-10-05 13:28:23,732.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,734.Airdata_Consumer.INFO  [x] Received sBf524,Briant,De La Haye,Male,71,Russia,Ruben Cantu Airport,PA,Panama,NAM,North America,2/6/2022,SYP,Alina Flooks,Delayed
+2023-10-05 13:28:23,738.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,745.Airdata_Consumer.INFO  [x] Received PlwJZT,Kalie,Scoble,Female,47,Sweden,Loralai Airport,PK,Pakistan,AS,Asia,3/19/2022,LRG,Madelena Lennarde,Delayed
+2023-10-05 13:28:23,746.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,748.Airdata_Consumer.INFO  [x] Received iU75x3,Catriona,Beaument,Female,77,Russia,Cudal Airport,AU,Australia,OC,Oceania,3/24/2022,CUG,Margie Beal,Delayed
+2023-10-05 13:28:23,749.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,750.Airdata_Consumer.INFO  [x] Received GUta6R,Amberly,Handling,Female,32,China,Farmington Regional Airport,US,United States,NAM,North America,3/7/2022,FAM,Lothaire Eades,Delayed
+2023-10-05 13:28:23,751.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,753.Airdata_Consumer.INFO  [x] Received 8qA80a,Dyna,De'Vere - Hunt,Female,22,China,Oudtshoorn Airport,ZA,South Africa,AF,Africa,7/18/2022,OUH,Neila Giercke,Cancelled
+2023-10-05 13:28:23,753.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,756.Airdata_Consumer.INFO  [x] Received 2haCDu,Janella,Hardaker,Female,28,Colombia,Zaraza Airport,VE,Venezuela, Bolivarian Republic of,SAM,South America,9/23/2022,ZRZ,Shaylynn Alcott,On Time
+2023-10-05 13:28:23,760.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,764.Airdata_Consumer.INFO  [x] Received WiVl8o,Alvin,Wenzel,Male,12,Greece,Enshi Airport,CN,China,AS,Asia,3/29/2022,ENH,Alfie MacMorland,Delayed
+2023-10-05 13:28:23,765.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,767.Airdata_Consumer.INFO  [x] Received e0H5LI,Jerrine,Peeters,Female,87,Philippines,Thompson Airport,CA,Canada,NAM,North America,11/3/2022,YTH,Chandra Dyhouse,Cancelled
+2023-10-05 13:28:23,768.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,769.Airdata_Consumer.INFO  [x] Received nL8kyD,Warner,Driutti,Male,62,China,Guilin Liangjiang International Airport,CN,China,AS,Asia,9/5/2022,KWL,Marita Holtom,Cancelled
+2023-10-05 13:28:23,770.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,772.Airdata_Consumer.INFO  [x] Received 9iT79e,Paige,Hayhow,Male,24,Sweden,Crested Butte Airpark,US,United States,NAM,North America,2/19/2022,CSE,Clyde Winn,Delayed
+2023-10-05 13:28:23,774.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,779.Airdata_Consumer.INFO  [x] Received kEARqP,Dorisa,Skill,Female,19,Ukraine,St Augustin Airport,CA,Canada,NAM,North America,11/5/2022,YIF,Ilyse Bartleman,Cancelled
+2023-10-05 13:28:23,780.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,781.Airdata_Consumer.INFO  [x] Received dx3NWh,Bobbye,Patmore,Female,45,China,Port Bergé Airport,MG,Madagascar,AF,Africa,8/24/2022,WPB,Stella Pittham,On Time
+2023-10-05 13:28:23,781.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,783.Airdata_Consumer.INFO  [x] Received Dpafly,Jayme,Dairton,Female,29,Indonesia,Hato Corozal Airport,CO,Colombia,SAM,South America,8/6/2022,HTZ,Kaye Clews,Delayed
+2023-10-05 13:28:23,784.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,785.Airdata_Consumer.INFO  [x] Received WV3aXu,Sayre,Stroyan,Male,87,Indonesia,Elkhart Municipal Airport,US,United States,NAM,North America,3/20/2022,EKI,Austine Crewe,Cancelled
+2023-10-05 13:28:23,785.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,787.Airdata_Consumer.INFO  [x] Received f27tyG,Joellyn,Stutter,Female,8,Croatia,Timbedra Airport,MR,Mauritania,AF,Africa,2/19/2022,TMD,Janaya Retchford,On Time
+2023-10-05 13:28:23,787.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,789.Airdata_Consumer.INFO  [x] Received g2jtbv,Julietta,Delahunt,Female,14,Democratic Republic of the Congo,Bagan Airport,MM,Myanmar,AS,Asia,10/3/2022,NYU,Aimil Shakshaft,Delayed
+2023-10-05 13:28:23,789.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,791.Airdata_Consumer.INFO  [x] Received KQmI30,Halie,Jewar,Female,53,France,Wiley Post Will Rogers Memorial Airport,US,United States,NAM,North America,12/5/2022,BRW,Katerine Bartolomivis,Delayed
+2023-10-05 13:28:23,791.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,792.Airdata_Consumer.INFO  [x] Received uoKrdd,Jessamyn,Buddles,Female,6,Peru,Gamboma Airport,CG,Congo,AF,Africa,4/9/2022,GMM,Beau Stevens,Delayed
+2023-10-05 13:28:23,793.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,797.Airdata_Consumer.INFO  [x] Received BhLqLM,Clevie,Clubbe,Male,35,China,Kasaba Bay Airport,ZM,Zambia,AF,Africa,4/14/2022,ZKB,Fenelia Print,Delayed
+2023-10-05 13:28:23,800.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,803.Airdata_Consumer.INFO  [x] Received jy543k,Magdalen,Claiden,Female,14,China,Faleolo International Airport,WS,Samoa,OC,Oceania,7/22/2022,APW,Micky Luno,Delayed
+2023-10-05 13:28:23,804.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,805.Airdata_Consumer.INFO  [x] Received ow3B76,Celina,Boothebie,Female,58,Latvia,Gorge Harbour Seaplane Base,CA,Canada,NAM,North America,8/5/2022,YGE,Balduin Ingman,Cancelled
+2023-10-05 13:28:23,806.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,807.Airdata_Consumer.INFO  [x] Received sP3mCk,Murvyn,Duff,Male,19,Germany,Nesson Airport,NC,New Caledonia,OC,Oceania,3/25/2022,HLU,Dorine Timmermann,Cancelled
+2023-10-05 13:28:23,807.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,809.Airdata_Consumer.INFO  [x] Received yewgFO,Lyndsie,Dyball,Female,22,Czech Republic,Malabo Airport,GQ,Equatorial Guinea,AF,Africa,9/23/2022,SSG,Arlina Legging,Delayed
+2023-10-05 13:28:23,809.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,810.Airdata_Consumer.INFO  [x] Received m3EzMU,Ashlie,Rotham,Female,44,Ireland,Zahn's Airport,US,United States,NAM,North America,11/23/2022,AYZ,Vicky Silmon,Delayed
+2023-10-05 13:28:23,811.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,812.Airdata_Consumer.INFO  [x] Received L0fKMv,Gardiner,Ferbrache,Male,9,Sweden,Gora Airstrip,PG,Papua New Guinea,OC,Oceania,6/25/2022,GOC,Pamela Franiak,On Time
+2023-10-05 13:28:23,813.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,817.Airdata_Consumer.INFO  [x] Received CCMELG,Rudolph,Housbie,Male,74,Iran,Campbell River Airport,CA,Canada,NAM,North America,7/22/2022,YBL,Kirby Varvell,Delayed
+2023-10-05 13:28:23,818.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,819.Airdata_Consumer.INFO  [x] Received xzTlBZ,Dun,Craythorn,Male,32,China,Moki Airport,PG,Papua New Guinea,OC,Oceania,12/21/2022,MJJ,Dunn MacSkeagan,Cancelled
+2023-10-05 13:28:23,820.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,822.Airdata_Consumer.INFO  [x] Received HKk0Wz,Dasha,Eppson,Female,37,Indonesia,Bairnsdale Airport,AU,Australia,OC,Oceania,1/11/2022,BSJ,Merci Jeduch,On Time
+2023-10-05 13:28:23,822.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,825.Airdata_Consumer.INFO  [x] Received HyzgMb,Bibby,Evershed,Female,73,Indonesia,Colonel Hill Airport,BS,Bahamas,NAM,North America,12/11/2022,CRI,Georgena Scanderet,Delayed
+2023-10-05 13:28:23,828.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,830.Airdata_Consumer.INFO  [x] Received m0Y9PX,Ransom,Chippindale,Male,54,Peru,Minlaton Airport,AU,Australia,OC,Oceania,12/15/2022,XML,Lenci Aitkin,On Time
+2023-10-05 13:28:23,830.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,831.Airdata_Consumer.INFO  [x] Received Dp1Yk1,Zelig,Brinded,Male,61,Brazil,Cincinnati Northern Kentucky International Airport,US,United States,NAM,North America,6/16/2022,CVG,Cosmo Rossbrook,On Time
+2023-10-05 13:28:23,832.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,833.Airdata_Consumer.INFO  [x] Received qBeyHc,Rosalyn,Vondrys,Female,56,China,Rar Gwamar Airport,ID,Indonesia,AS,Asia,7/8/2022,DOB,Fowler Desquesnes,Delayed
+2023-10-05 13:28:23,834.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,836.Airdata_Consumer.INFO  [x] Received nUcxxq,Lamond,Ahmed,Male,21,Croatia,Sawyer International Airport,US,United States,NAM,North America,5/17/2022,MQT,Liv Heinig,Cancelled
+2023-10-05 13:28:23,837.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,841.Airdata_Consumer.INFO  [x] Received E3lxE1,Anders,Treadger,Male,62,Madagascar,Mirny Airport,RU,Russian Federation,AS,Asia,2/21/2022,MJZ,Giacomo Tooth,On Time
+2023-10-05 13:28:23,841.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,843.Airdata_Consumer.INFO  [x] Received gieC4F,Haroun,holmes,Male,54,United States,Susanville Municipal Airport,US,United States,NAM,North America,3/21/2022,SVE,Xerxes Arkcoll,On Time
+2023-10-05 13:28:23,844.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,845.Airdata_Consumer.INFO  [x] Received N9wtod,Kristan,Metzing,Female,37,Peru,Wichita Eisenhower National Airport,US,United States,NAM,North America,11/8/2022,ICT,Ellene Gibby,Delayed
+2023-10-05 13:28:23,846.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,847.Airdata_Consumer.INFO  [x] Received 2GBRsN,Willie,Netherwood,Male,85,Russia,Kavieng Airport,PG,Papua New Guinea,OC,Oceania,6/22/2022,KVG,Shirlee Weldrake,On Time
+2023-10-05 13:28:23,847.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,848.Airdata_Consumer.INFO  [x] Received FaU9VX,Aldon,Ridsdell,Male,24,Ghana,Arapiraca Airport,BR,Brazil,SAM,South America,4/26/2022,APQ,Lynette Ortelt,Delayed
+2023-10-05 13:28:23,848.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,850.Airdata_Consumer.INFO  [x] Received kqtQSY,Chrotoem,Abels,Male,62,Russia,Port Lincoln Airport,AU,Australia,OC,Oceania,3/6/2022,PLO,Che Brett,On Time
+2023-10-05 13:28:23,851.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,853.Airdata_Consumer.INFO  [x] Received IsAutB,Andy,Kettleson,Male,50,China,Roboré Airport,BO,Bolivia, Plurinational State of,SAM,South America,5/13/2022,RBO,Ivett Connikie,Cancelled
+2023-10-05 13:28:23,855.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,859.Airdata_Consumer.INFO  [x] Received 38dxcj,Dredi,Curd,Female,45,Russia,Gaspé (Michel-Pouliot) Airport,CA,Canada,NAM,North America,5/15/2022,YGP,Fitzgerald Alberti,Cancelled
+2023-10-05 13:28:23,860.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,861.Airdata_Consumer.INFO  [x] Received fXol41,Tessy,Athelstan,Female,83,Sweden,Kenmore Air Harbor Seaplane Base,US,United States,NAM,North America,12/8/2022,LKE,Denny Mudd,On Time
+2023-10-05 13:28:23,861.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,862.Airdata_Consumer.INFO  [x] Received 09lGmv,Tamas,Vigneron,Male,58,Mali,Diamantina Lakes Airport,AU,Australia,OC,Oceania,11/23/2022,DYM,Clemente Mateev,Delayed
+2023-10-05 13:28:23,863.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,864.Airdata_Consumer.INFO  [x] Received ZEtA0W,Gnni,Chaperling,Female,17,Brazil,Quzhou Airport,CN,China,AS,Asia,9/22/2022,JUZ,Justinn Hugh,On Time
+2023-10-05 13:28:23,865.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,866.Airdata_Consumer.INFO  [x] Received teCvT2,Margaux,Lattin,Female,76,Guatemala,McGhee Tyson Airport,US,United States,NAM,North America,2/7/2022,TYS,Sydelle Danher,Delayed
+2023-10-05 13:28:23,866.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,867.Airdata_Consumer.INFO  [x] Received 2Fdmm7,Anabella,Tutchings,Female,51,China,Mulika Lodge Airport,KE,Kenya,AF,Africa,7/27/2022,JJM,Joceline Frangleton,Cancelled
+2023-10-05 13:28:23,868.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,869.Airdata_Consumer.INFO  [x] Received z50jvE,Joeann,Gotcliff,Female,77,Kyrgyzstan,Badu Island Airport,AU,Australia,OC,Oceania,11/24/2022,BDD,Brandais Crielly,Delayed
+2023-10-05 13:28:23,870.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,871.Airdata_Consumer.INFO  [x] Received NvdMpW,Peri,Battram,Female,16,Peru,Putao Airport,MM,Myanmar,AS,Asia,12/18/2022,PBU,Coralyn McMickan,Cancelled
+2023-10-05 13:28:23,871.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,875.Airdata_Consumer.INFO  [x] Received Zf643n,Eugenius,Headon,Male,77,Ukraine,Ouahigouya Airport,BF,Burkina Faso,AF,Africa,4/29/2022,OUG,Ibrahim Cotton,On Time
+2023-10-05 13:28:23,877.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,879.Airdata_Consumer.INFO  [x] Received sF1bgv,Erwin,Baise,Male,12,Haiti,Tahsis Seaplane Base,CA,Canada,NAM,North America,1/31/2022,ZTS,Weber Swindon,Cancelled
+2023-10-05 13:28:23,880.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,881.Airdata_Consumer.INFO  [x] Received 0auTO9,Leta,Tartt,Female,62,Afghanistan,Albert Lea Municipal Airport,US,United States,NAM,North America,7/5/2022,AEL,Karlene Kempster,On Time
+2023-10-05 13:28:23,882.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,882.Airdata_Consumer.INFO  [x] Received 2MwBUd,Lilli,Sarath,Female,87,Sweden,White Mountain Airport,US,United States,NAM,North America,7/20/2022,WMO,Ollie Ventom,Delayed
+2023-10-05 13:28:23,883.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,885.Airdata_Consumer.INFO  [x] Received F6FIhA,Franz,Roset,Male,23,Greece,Southwest Florida International Airport,US,United States,NAM,North America,3/24/2022,RSW,Stanford Garnam,Cancelled
+2023-10-05 13:28:23,887.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,892.Airdata_Consumer.INFO  [x] Received fFCRXo,Natalya,Offner,Female,23,Czech Republic,South Galway Airport,AU,Australia,OC,Oceania,11/10/2022,ZGL,Christalle Lifton,Cancelled
+2023-10-05 13:28:23,893.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,895.Airdata_Consumer.INFO  [x] Received MR979m,Genevra,Shipperbottom,Female,41,Ethiopia,Doini Airport,PG,Papua New Guinea,OC,Oceania,7/6/2022,DOI,Tandie Willbraham,On Time
+2023-10-05 13:28:23,895.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,897.Airdata_Consumer.INFO  [x] Received HOUKta,Francine,Adolfsen,Female,54,Indonesia,Nanjing Lukou Airport,CN,China,AS,Asia,10/11/2022,NKG,Leanora Romney,Cancelled
+2023-10-05 13:28:23,898.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,901.Airdata_Consumer.INFO  [x] Received ycRswR,Cairistiona,Tummond,Female,52,Tanzania,Mundo Maya International Airport,GT,Guatemala,NAM,North America,5/25/2022,FRS,Burnaby De Mitris,Cancelled
+2023-10-05 13:28:23,901.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,906.Airdata_Consumer.INFO  [x] Received swq47m,Kelci,Colliver,Female,39,China,Matsu Nangan Airport,TW,Taiwan, Province of China,AS,Asia,10/27/2022,LZN,Dulci Bastow,On Time
+2023-10-05 13:28:23,907.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,908.Airdata_Consumer.INFO  [x] Received rUPU18,Denys,Endricci,Male,33,Nigeria,Biju Patnaik Airport,IN,India,AS,Asia,7/22/2022,BBI,Lolly Sine,Delayed
+2023-10-05 13:28:23,909.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,911.Airdata_Consumer.INFO  [x] Received k2G45D,Findley,Godleman,Male,89,Indonesia,Tamchakett Airport,MR,Mauritania,AF,Africa,10/25/2022,THT,Mitchell Parsisson,Delayed
+2023-10-05 13:28:23,912.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,912.Airdata_Consumer.INFO  [x] Received udSiKS,Fidelio,Guerry,Male,3,China,Yuruf Airport,ID,Indonesia,AS,Asia,5/2/2022,RUF,Caye Donat,Delayed
+2023-10-05 13:28:23,912.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,913.Airdata_Consumer.INFO  [x] Received zaa5OO,Krishnah,Dabels,Male,54,Russia,Monte Carmelo Airport,BR,Brazil,SAM,South America,9/14/2022,0,Freddie Wallach,On Time
+2023-10-05 13:28:23,915.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,915.Airdata_Consumer.INFO  [x] Received ZE7IB5,Diannne,Samter,Female,73,Cameroon,Vadsø Airport,NO,Norway,EU,Europe,11/25/2022,VDS,Simmonds Gallihaulk,Cancelled
+2023-10-05 13:28:23,916.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,919.Airdata_Consumer.INFO  [x] Received llbqHF,Inge,Hewins,Female,30,Morocco,Fakfak Airport,ID,Indonesia,AS,Asia,4/9/2022,FKQ,Danit Hazley,Cancelled
+2023-10-05 13:28:23,921.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,924.Airdata_Consumer.INFO  [x] Received MQFk2E,Dermot,Stainburn,Male,54,Armenia,Islita Airport,CR,Costa Rica,NAM,North America,7/15/2022,PBP,Buddy Guslon,Cancelled
+2023-10-05 13:28:23,925.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,926.Airdata_Consumer.INFO  [x] Received 3CAHBo,Ajay,Durward,Female,26,Russia,João Paulo II Airport,PT,Portugal,EU,Europe,8/26/2022,PDL,Bertha Piborn,On Time
+2023-10-05 13:28:23,928.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,929.Airdata_Consumer.INFO  [x] Received KTegxQ,Constancy,Darke,Female,51,China,Batticaloa Airport,LK,Sri Lanka,AS,Asia,2/12/2022,BTC,Bron Alben,Cancelled
+2023-10-05 13:28:23,930.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,931.Airdata_Consumer.INFO  [x] Received hXhRFH,Cy,Servante,Male,78,China,Omar N Bradley Airport,US,United States,NAM,North America,5/19/2022,MBY,Ludovika Purdon,Cancelled
+2023-10-05 13:28:23,931.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,933.Airdata_Consumer.INFO  [x] Received RXha8e,Lennard,Giorgi,Male,43,Peru,Lihue Airport,US,United States,NAM,North America,1/31/2022,LIH,Jordana Lantaff,On Time
+2023-10-05 13:28:23,934.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,936.Airdata_Consumer.INFO  [x] Received phfnHI,Cordie,Rosenberger,Female,3,Brazil,Spirit of St Louis Airport,US,United States,NAM,North America,7/17/2022,SUS,Enrica Ferrarini,On Time
+2023-10-05 13:28:23,938.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,942.Airdata_Consumer.INFO  [x] Received cYDvaj,Noelyn,Penquet,Female,80,Brazil,Tahsis Seaplane Base,CA,Canada,NAM,North America,11/16/2022,ZTS,Harlene Illingsworth,On Time
+2023-10-05 13:28:23,942.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,944.Airdata_Consumer.INFO  [x] Received Utv847,Frank,Greenhough,Male,52,Philippines,Mururoa Atoll Airport,PF,French Polynesia,OC,Oceania,2/6/2022,UOA,Ronald Antonucci,On Time
+2023-10-05 13:28:23,944.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,945.Airdata_Consumer.INFO  [x] Received VxH2IW,Tan,Connold,Male,73,Sweden,Denver International Airport,US,United States,NAM,North America,5/7/2022,DEN,Bevvy Cleall,On Time
+2023-10-05 13:28:23,946.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,948.Airdata_Consumer.INFO  [x] Received odEULc,Star,Casford,Female,49,Greece,Arly Airport,BF,Burkina Faso,AF,Africa,10/29/2022,ARL,Bailey Priver,Cancelled
+2023-10-05 13:28:23,948.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,950.Airdata_Consumer.INFO  [x] Received 5fH1h6,Travers,Selwyne,Male,85,Colombia,Springfield Branson National Airport,US,United States,NAM,North America,8/9/2022,SGF,Annetta Vasyunkin,Cancelled
+2023-10-05 13:28:23,950.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,953.Airdata_Consumer.INFO  [x] Received bf9LOz,Randie,Jankin,Male,68,Mexico,Paradise Island Airport,MZ,Mozambique,AF,Africa,10/29/2022,NTC,Ibrahim Andraud,On Time
+2023-10-05 13:28:23,955.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,959.Airdata_Consumer.INFO  [x] Received OI5AwZ,Henryetta,Noice,Female,36,Chile,Merritt Airport,CA,Canada,NAM,North America,11/3/2022,YMB,Sybilla Hargey,Delayed
+2023-10-05 13:28:23,960.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,961.Airdata_Consumer.INFO  [x] Received lh0OoV,Fons,Schrieves,Male,14,Albania,Naval Outlying Field Imperial Beach (Ream Field),US,United States,NAM,North America,9/26/2022,NRS,Reinald Toffler,On Time
+2023-10-05 13:28:23,962.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,963.Airdata_Consumer.INFO  [x] Received 7K0lgK,Lissa,Thynn,Female,74,Luxembourg,In Guezzam Airport,DZ,Algeria,AF,Africa,1/20/2022,INF,Sean Searchwell,Delayed
+2023-10-05 13:28:23,964.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,965.Airdata_Consumer.INFO  [x] Received 8P7qZJ,Mattias,Darrell,Male,78,Honduras,Aldan Airport,RU,Russian Federation,AS,Asia,8/7/2022,ADH,Masha Banville,Cancelled
+2023-10-05 13:28:23,966.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,967.Airdata_Consumer.INFO  [x] Received yK4MWF,Cirilo,Camoletto,Male,19,China,Bhojpur Airport,NP,Nepal,AS,Asia,12/10/2022,BHP,Louisa Worvell,Delayed
+2023-10-05 13:28:23,968.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,971.Airdata_Consumer.INFO  [x] Received 1cYnY2,Aeriela,Clarke,Female,70,Portugal,Gorna Oryahovitsa Airport,BG,Bulgaria,EU,Europe,9/25/2022,GOZ,Devonne Jon,On Time
+2023-10-05 13:28:23,974.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,977.Airdata_Consumer.INFO  [x] Received LkZ2bb,Marjory,Franz,Female,46,Nigeria,Hattiesburg Laurel Regional Airport,US,United States,NAM,North America,7/27/2022,PIB,Padget Diben,Cancelled
+2023-10-05 13:28:23,977.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,978.Airdata_Consumer.INFO  [x] Received EhG0RS,Rodolph,Grewcock,Male,23,Kazakhstan,Nalchik Airport,RU,Russian Federation,EU,Europe,11/26/2022,NAL,Constantine Leworthy,Delayed
+2023-10-05 13:28:23,979.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,980.Airdata_Consumer.INFO  [x] Received p2BWbE,Justinn,Ishchenko,Female,54,Pakistan,Venice Municipal Airport,US,United States,NAM,North America,4/1/2022,VNC,Sapphira MacKinnon,On Time
+2023-10-05 13:28:23,981.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,982.Airdata_Consumer.INFO  [x] Received GkqKuy,Winne,Cowland,Female,73,France,Tanda Tula Airport,ZA,South Africa,AF,Africa,6/17/2022,TDT,Ernaline Klain,Cancelled
+2023-10-05 13:28:23,983.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:28:23,985.Airdata_Consumer.INFO  [x] Received nhuv0J,Gabriella,Patry,Female,65,China,Lar Airport,IR,Iran, Islamic Republic of,AS,Asia,7/31/2022,LRR,Clyve Dickerson,Delayed
+2023-10-05 13:28:23,987.Airdata_Consumer.INFO  [x] Done.
+2023-10-05 13:29:23,647.Airdata_Consumer.INFO 
+Closing connection. Goodbye.
+
